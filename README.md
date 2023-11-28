@@ -9,7 +9,7 @@
 Como executar:
 
 ```shell
-cd .\src\
+cd src
 python createCollectionsAndData.py
 ```
 Esse comando irá conectar com o banco Oracle, extrair os dados e as tabelas existentes, conectar
